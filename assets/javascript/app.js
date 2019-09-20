@@ -16,3 +16,14 @@ var quizQuestions = [
         choices: ['GTA V', 'Minecraft', 'Tetris', 'Super Mario Bros'],
         correctAnswer:'Minecraft'
     },
+
+    {
+        question: 'Which country won the 2018 World Cup?',
+        choices: ['Brazil', 'Germany', 'France', 'Netherlands'],
+        correctAnswer:'France'
+    },
+
+    {
+        question: 'What is the biggest event that happens in Austin every year?',
+        choices: ['UT vs. LSU', 'USGP F1', 'ACL', 'SXSW'],
+        cor
